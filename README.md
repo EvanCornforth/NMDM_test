@@ -1,5 +1,9 @@
 # NMDM_test
 
-- 1 Has this worked?
+- Lab name, lab members, link to website & social media links, contact details
 
--2 I hope so
+- What rights do different users have - e.g. can everyone make new folders/delete files?
+
+- Who can add new members?
+
+- Will there be personal folders? Can other people look in them?
